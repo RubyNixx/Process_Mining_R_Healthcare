@@ -1,13 +1,11 @@
-# {PROJECT NAME}
-## NHS England Digitial Analytics and Research Team - PhD Internship Project
+# Process Mining using R
+## NHS England East of England - Intelligence & Insight
 
 ### About the Project
 
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
 
-This repository holds code for the {PROJECT NAME} {SHORT DESCRIPTION}
-
-[Link to original project propsoal](https://nhsx.github.io/nhsx-internship-projects/)
+This repository holds code for the Process Mining using R and contains everything you need to get you started.
 
 _**Note:** Only public or fake data are shared in this repository._
 
@@ -20,8 +18,8 @@ _**Note:** Only public or fake data are shared in this repository._
 
 ### Built With
 
-[![Python v3.8](https://img.shields.io/badge/python-v3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
-- {LIST OF MAIN PACKAGE VERSIONS}
+R Studio
+- (https://bupaverse.github.io/docs/index.html)
 
 ### Getting Started
 
@@ -31,7 +29,7 @@ To get a local copy up and running follow these simple steps.
 
 To clone the repo:
 
-`git clone https://github.com/nhsx/{REPO NAME}`
+`git clone https://github.com/RubyNixx/Process_Mining_R_Healthcare`
 
 To create a suitable environment:
 - ```python -m venv _env```
