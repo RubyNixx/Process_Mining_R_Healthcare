@@ -32,28 +32,21 @@ To clone the repo:
 `git clone https://github.com/RubyNixx/Process_Mining_R_Healthcare`
 
 To create a suitable environment:
-- ```python -m venv _env```
-- `source _env/bin/activate`
-- `pip install -r requirements.txt`
+- R Studio
+- Libraries are contained with the R script
 
-{ADDITIONAL TECHNICAL SUPPORT AND NEEDS} 
 
 ### Usage
-{DESCRIPTION OF CODE}
+The R code provides examples using 1 dataset of the different types of visualisations using the bupaverse package.
 
 #### Outputs
-{LIST AND DESCRIPTION OF OUTPUTS}
-
-{NOTES ON REPRODUCIBILITY OF RESULTS}
+Charts are outputted to screen when you run the code.
 
 #### Datasets
-{DESCRIPTION AND LINKS TO DATASETS}
 
-{LINK TO FAKE DATA TO SUPPORT INITAIL CODE RUNS}
+Fake data is used within project, which has been manually transformed to meet NHS Data Dictionary fields.
 
-### Roadmap
-
-See the {LINK TO REPO ISSUES} for a list of proposed features (and known issues).
+The script loads this from a excel file and then generates a event log.
 
 ### Contributing
 
@@ -83,7 +76,7 @@ of the [Open Government 3.0][ogl] licence.
 
 ### Contact
 
-To find out more about the [Digitial Analytics and Research Team](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/) visit our [project website](https://nhsx.github.io/AnalyticsUnit/projects.html) or get in touch at [analytics-unit@nhsx.nhs.uk](mailto:analytics-unit@nhsx.nhs.uk).
+Technical contact: ruby.nicholls@nhs.net
 
 <!-- ### Acknowledgements -->
 
