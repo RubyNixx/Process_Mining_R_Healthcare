@@ -85,6 +85,7 @@ ruby.nicholls@nhs.net
 
 Technical contact: ruby.nicholls@nhs.net
 
-<!-- ### Acknowledgements -->
+### Acknowledgements
 
 Thanks to Mike Perham for all your support and guidance.
+Thanks to BNSSG for sharing: https://github.com/nhs-bnssg-analytics/process-mining-clinical-pathways/tree/main
