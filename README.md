@@ -11,10 +11,7 @@ _**Note:** Only public or fake data are shared in this repository._
 
 ### Project Stucture
 
-- The main code is found in the root of the repository (see Usage below for more information)
-- The accompanying [report](./reports/report.pdf) is also available in the `reports` folder
-- More information about the code usage can be found in the [model card](./model_card.md)
-- {OTHER REPO STRUCTURE}
+- The main code and test data is found in the root of the repository (see Usage below for more information)
 
 ### Built With
 
