@@ -48,7 +48,7 @@ Charts are outputted to screen when you run the code.
 
 #### Datasets
 
-Fake data is used within project, which has been manually transformed to meet NHS Data Dictionary fields. (Bssed on this dataset: https://gitlab.com/healthcare2/process-mining-tutorial/-/blob/master/ArtificialPatientTreatment.csv?ref_type=heads)
+Fake data is used within project, which has been manually transformed to meet NHS Data Dictionary fields. (Based on this dataset: https://gitlab.com/healthcare2/process-mining-tutorial/-/blob/master/ArtificialPatientTreatment.csv?ref_type=heads)
 
 The script loads this from the test data excel file and then generates a event log, so the only change you should need to make to get this to run on your own instance is to re-direct the readexcel file path to your own.
 
