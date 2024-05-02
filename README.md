@@ -25,7 +25,11 @@ R Studio
 
 #### Installation
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these simple steps:
+
+1. Clone repo
+2. Set up project in R linked to your cloned Git repository
+3. Change file path in R script to local file path (using artificial data within this repo)
 
 To clone the repo:
 
@@ -37,16 +41,18 @@ To create a suitable environment:
 
 
 ### Usage
-The R code provides examples using 1 dataset of the different types of visualisations using the bupaverse package.
+The R code provides examples, using 1 dataset, of the different types of visualisations for process mining you can create using the bupaverse package.
 
 #### Outputs
 Charts are outputted to screen when you run the code.
 
 #### Datasets
 
-Fake data is used within project, which has been manually transformed to meet NHS Data Dictionary fields.
+Fake data is used within project, which has been manually transformed to meet NHS Data Dictionary fields. (Bssed on this dataset: https://gitlab.com/healthcare2/process-mining-tutorial/-/blob/master/ArtificialPatientTreatment.csv?ref_type=heads)
 
-The script loads this from a excel file and then generates a event log.
+The script loads this from the test data excel file and then generates a event log, so the only change you should need to make to get this to run on your own instance is to re-direct the readexcel file path to your own.
+
+There are 100 test pathways, of which some look like rework, to make it easier as a beginner select a smaller set of pathways to understand the range of visualisation.
 
 ### Contributing
 
@@ -75,8 +81,10 @@ of the [Open Government 3.0][ogl] licence.
 [ogl]: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 
 ### Contact
+ruby.nicholls@nhs.net
 
 Technical contact: ruby.nicholls@nhs.net
 
 <!-- ### Acknowledgements -->
 
+Thanks to Mike Perham for all your support and guidance.
